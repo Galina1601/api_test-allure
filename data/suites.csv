@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Apr 21 20:41:59 UTC 2026","Tue Apr 21 20:41:59 UTC 2026","93","","test_note_api","TestNoteAPI","","","Создание заметки","POST /posts — создание новой записи"
+"passed","Tue Apr 21 20:41:59 UTC 2026","Tue Apr 21 20:41:59 UTC 2026","45","","test_note_api","TestNoteAPI","","","Получение заметки по ID","GET /posts/1 — получение записи"
+"passed","Tue Apr 21 20:41:59 UTC 2026","Tue Apr 21 20:41:59 UTC 2026","45","","test_note_api","TestNoteAPI","","","Получение всех заметок","GET /posts — получение списка"
+"passed","Tue Apr 21 20:42:00 UTC 2026","Tue Apr 21 20:42:00 UTC 2026","64","","test_note_api","TestNoteAPI","","","Удаление заметки","DELETE /posts/1 — удаление записи"
+"passed","Tue Apr 21 20:41:59 UTC 2026","Tue Apr 21 20:42:00 UTC 2026","109","","test_note_api","TestNoteAPI","","","Обновление заметки","PUT /posts/1 — обновление записи"
